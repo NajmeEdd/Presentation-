@@ -1,0 +1,20 @@
+*How does the web works?
+
+First we type an URL adress to a browser or any information , the role of browser which is a search engine is to help us finding the specific information.
+the browser search for the information in servers and send it bacl to us.
+the response contains  (html , css , js ) these are what a web site consists of
+
+
+
+What do you need to be a web developer?
+
+A web developer needs to learn the basics of creation a web cite ( html , css , js ) are the the main tools.
+also the web developer needs to have knowledge of database and how it's function.
+
+
+
+What’s the role of a web developer.
+
+the role of a web developer we can compare it with an architecture but in the web world .
+he have the role to create and design , also modify the web cites. 
+with the tools that he learn , his role is finalize when he create a well structred web cite.
